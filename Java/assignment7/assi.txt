@@ -1,0 +1,45 @@
+ASSIGNMENT 7
+(Scenario-Based)
+A software company wants to develop an Employee Management System to store and process information about different types of employees. The company has different categories of employees such as Full-Time Employees and Part-Time Employees. All employees have some common information such as Employee ID, Name and Basic Salary, while different employee categories have their own salary calculation methods. The company also wants to provide common services such as generating employee details and calculating salary through a common interface. Task Write a Java program to implement the Employee Management System using Inheritance, Interface and Polymorphism.
+
+1.	Implement Inheritance 
+Create a base class named Employee containing: 
+● Employee ID 
+● Employee Name 
+● Basic Salary
+Create the following derived classes: 
+● FullTimeEmployee 
+● PartTimeEmployee 
+Use inheritance to reuse the common properties and methods of the Employee class.
+
+2.	 Implement Interface 
+Create an interface named SalaryCalculator containing a method: 
+calculateSalary() 
+Implement this interface in both FullTimeEmployee and PartTimeEmployee. The salary should be calculated differently for each type of employee. 
+For example: 
+● Full-TimeEmployee: 
+Final Salary = Basic Salary + Allowances-Deductions 
+● Part-TimeEmployee: 
+Final Salary = Hours Worked × Hourly Rate
+
+3.	Implement Polymorphism 
+Create an Employee reference and use it to refer to objects of: 
+● FullTimeEmployee
+● PartTimeEmployee 
+Demonstrate runtime polymorphism by calling the appropriate overridden methods using the Employee reference.
+
+4.	 Display Employee Details 
+For each employee, display: 
+● Employee ID 
+● Employee Name 
+● Employee Type 
+● Basic Salary/relevant salary information 
+● Calculated Final Salary
+ 
+ import java.util.Scanner
+ package assignment7
+
+ public class Employee{
+    public employeeID;
+    
+ }
