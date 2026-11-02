@@ -1,5 +1,5 @@
 /*3.	An Engineering Students Club needs software to register participants for its annual Technical Fest. The workshop has a maximum seat capacity due to lab constraints. Each student participant has a unique registration ID, name, branch (e.g., Computer Science, Mechanical), and membership type (Club Member or Non-Member). The system needs to validate that the lab is not full before accepting a new registration, calculate the registration fee based on their membership status, and print workshop entry passes */
-package assignment5;
+package Class_and_objects;
 import java.util.Scanner;
 
 class Participant {

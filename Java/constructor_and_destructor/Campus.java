@@ -9,7 +9,7 @@ Tasks:
 6.	Flag rooms above a set limit as "High usage"
 7.	Suggest savings if usage hours are reduced by 1 hour per day
 */
-package assignment6;
+package constructor_and_destructor;
 import java.util.Scanner;
 
 class Room {

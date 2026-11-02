@@ -1,3 +1,4 @@
+package Multithreading_Exception_handling;
 class TicketCounter {
     private int availableSeats = 1; 
 

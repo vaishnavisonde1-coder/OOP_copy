@@ -1,4 +1,4 @@
-package assignment6;
+package constructor_and_destructor;
 /*1.	Surplus Food Donation Tracker
 Scenario: A hostel mess and a nearby NGO shelter want to reduce food waste. The mess has leftover food every day, but nobody keeps a record of what is available or who received it.
 Problem: Create a Donation class with attributes such as donor name, food item, quantity in kg, and status (available or collected). Create a DonationManager class that stores up to 50 donations in an array of objects.

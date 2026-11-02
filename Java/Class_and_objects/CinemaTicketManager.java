@@ -1,5 +1,5 @@
 /*2.	A Cinema Hall has capacity of 100 seats and needs an automated system to manage ticket sales. Each movie show has a title, a ticket price, and a set number of available seats. The system should allow customers to check availability, book a specific number of tickets, and automatically calculate the total cost while updating the seating capacity */
-package assignment5;
+package Class_and_objects;
 import java.util.Scanner;
 
 class MovieShow {

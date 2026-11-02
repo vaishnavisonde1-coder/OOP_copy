@@ -37,7 +37,7 @@ For each employee, display:
 ● Basic Salary/relevant salary information 
 ● Calculated Final Salary
  */
-package assignment7;
+package Inheritance_Interface_Polymorphism;
 import java.util.Scanner;
 
 interface SalaryCalculator {

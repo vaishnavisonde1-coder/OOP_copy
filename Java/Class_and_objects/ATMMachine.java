@@ -1,5 +1,5 @@
 /*1.	An ATM machine needs to authenticate a user via a PIN before letting them perform transactions. Once logged in, the user can check their balance, deposit money, or withdraw money. The program must validate that withdrawals do not exceed the current balance and handle incorrect PIN attempts */
-package assignment5;
+package Class_and_objects;
 import java.util.Scanner;
 
 class ATM {

@@ -8,7 +8,7 @@ Tasks:
 •	Display village-wise count of fully vaccinated children
 •	Calculate overall vaccination coverage as a percentage
  */
-package assignment6;
+package constructor_and_destructor;
 import java.util.HashMap;
 import java.util.Map;
 
